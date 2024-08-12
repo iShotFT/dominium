@@ -1,0 +1,35 @@
+{
+  "name": "dominium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ishotft/dominium.git",
+  "license": "MIT",
+  "private": false,
+  "packageManager": "yarn@1.22.22",
+  "author": {
+    "name": "Andries Verbanck",
+    "email": "andries@verbanck.be",
+    "url": "https://github.com/ishotft"
+  },
+  "contributors": [
+    {
+      "name": "Andries Verbanck",
+      "email": "andries@verbanck.be",
+      "url": "https://github.com/ishotft"
+    }
+  ],
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "prettier": "^3.2.5",
+    "@types/node": "^20.14.10",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {}
+}
