@@ -72,3 +72,7 @@ This guide is writen with a Debian (eg. WSL2) or MacOS environment in mind, we d
 ## Commands Cheatsheet
 
 ### Make Commands
+
+[WSL2-url]: https://learn.microsoft.com/en-us/windows/wsl/install
+[Direnv-url]: https://direnv.net/
+[Make-Ubuntu]: https://wiki.ubuntu.com/ubuntu-make
